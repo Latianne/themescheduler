@@ -1,0 +1,2 @@
+D:\apps\bullshit\ThemeScheduler\publish\ThemeScheduler.pdb
+D:\apps\bullshit\ThemeScheduler\publish\ThemeScheduler.exe

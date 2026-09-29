@@ -1,0 +1,14 @@
+D:\apps\bullshit\ThemeScheduler\bin\Release\net9.0-windows\win-x64\ThemeScheduler.exe
+D:\apps\bullshit\ThemeScheduler\bin\Release\net9.0-windows\win-x64\ThemeScheduler.deps.json
+D:\apps\bullshit\ThemeScheduler\bin\Release\net9.0-windows\win-x64\ThemeScheduler.runtimeconfig.json
+D:\apps\bullshit\ThemeScheduler\bin\Release\net9.0-windows\win-x64\ThemeScheduler.dll
+D:\apps\bullshit\ThemeScheduler\bin\Release\net9.0-windows\win-x64\ThemeScheduler.pdb
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\ThemeScheduler.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\ThemeScheduler.AssemblyInfoInputs.cache
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\ThemeScheduler.AssemblyInfo.cs
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\ThemeScheduler.csproj.CoreCompileInputs.cache
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\ThemeScheduler.dll
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\refint\ThemeScheduler.dll
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\ThemeScheduler.pdb
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\ThemeScheduler.genruntimeconfig.cache
+D:\apps\bullshit\ThemeScheduler\obj\Release\net9.0-windows\win-x64\ref\ThemeScheduler.dll
